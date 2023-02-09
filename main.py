@@ -1,2 +1,3 @@
-print("hey")
-print("world")
+print("HEllo world")
+print("wacha fiha")
+print("wah wah ")
